@@ -6,21 +6,21 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
+name: Ryan Sanchez
+title: Student
+email: ryanrsanchez33@gmail.com (optional)
 # email_title: Email (Email title override)
-phone: Your phone number (optional)
+phone: 3057419989 (optional)
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+website: https://ryanrrsanchez.github.io (eg. https://google.com)(optional)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: false
+darkmode: true
 
 # Social links
 twitter_username: jekyllrb
-github_username:  jekyll
+github_username:  ryanrrsanchez
 stackoverflow_username: "00000001"
 dribbble_username: jekyll
 facebook_username: jekyll
